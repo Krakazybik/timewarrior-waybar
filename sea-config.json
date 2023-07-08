@@ -1,0 +1,5 @@
+{
+  "main": "src/timewarrior.js",
+  "output": "build/timewarrior.blob",
+  "disableExperimentalSEAWarning": true
+} 
